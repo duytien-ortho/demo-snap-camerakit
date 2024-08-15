@@ -1,4 +1,7 @@
 <!-- 
+ - by default, camera kit will render its output at the same resolution as the video input provided.
+ - snap camera kit permission requires https certificate => vite-plugin-mkcert or mkcert to run locally
+
  - snapchat doesn't actually take picture, it takes a screenshot. 
     => instead of getting a phones scrisp camera sensor quality, 
     just getting the resolution of phone screen.
